@@ -9,13 +9,16 @@ Split-and-Bridge: Adaptable Class Incremental Learning within a Single Neural Ne
 # Prerequisite code
 
 ## Environment
- contoh : python 3.7.x
+Hardware , Software, atau konfigurasi yang digunakan dimana program dibuat atau dijalankan.
+ contoh : VS Code, IDE, PyTorch, JupyterLab, etc.
 
 ## Library
- contoh : numpy version 1.x
+Kumpulan program pre-compiled, function atau data yang siap digunakan dalam program.
+ contoh : numpy version 1.x, pandas version x.x , etc.
 
 ## Dataset
- contoh : dataset ???
+Kumpulan data yang digunakan dalam program, dapat diberikan detail seperti tipe data, struktur data, dan link tempat download datanya.
+ contoh : dataset superstore, etc.
 
 ## User Guide
 ### Langkah penggunaan program
