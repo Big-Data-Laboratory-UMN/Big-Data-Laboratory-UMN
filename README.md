@@ -3,6 +3,7 @@
 # GITHUB FILE
 1. Upload hasil penelitian dalam bentuk PDF, file source code, dan gambar yang mendukung penelitian.
 2. Masukkan source code program (jika ada) yang digunakan juga di streamlit.
+3. Apabila ada file, program, atau pendukung lainnya, sertakan disini.
 
 
 
@@ -12,7 +13,8 @@
 2. Tambahkan gambar atau tabel pendukung
 3. Dibagian bawah readme (atau dibuat file terpisah), dapat ditambahkan penjelasan cara menggunakan program baik local maupun di streamlit (untuk cara upload dan deploy pada streamlit ada di bagian bawah readme ini).
 4. Tambahkan penjelasan untuk environment, library, dan dataset yang digunakan dalam program.
-5. Pendukung lainnya yang wajib diupload dapat ditambahkan.
+
+# TIPS GAMBAR DAN TABEL PENDUKUNG
 
 Untuk memunculkan gambar pada readme dapat menggunakan tag seperti
 
@@ -39,7 +41,7 @@ contoh tabel
 gunakan dua cara tersebut untuk membuat readme atau guide lebih informatif.
 
 
-# Upload program ke streamlit
+# CARA DEPLOY STREAMLIT
 
 1. Masuk ke halaman https://streamlit.io/
 2. Pada pojok kanan atas pilih Free kemudian sign in ke streamlit community.
